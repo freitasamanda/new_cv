@@ -86,11 +86,10 @@ body {
 }
 
 .profile-img{
-    height: 15vw;
+    height: 18vw;
     border-radius: 100%;
     align-self: center;
-    margin-top: 5vw;
-    margin-bottom: 1vw;
+    margin-top: 2vw;
 }
 
 .profile-text{
@@ -113,12 +112,10 @@ body {
     font-size: 2vw;
     color: white;
     align-self: center;
-    margin-bottom: 1vw;
 }
 
 .contatos{
     border-top: 0.2px white;
-    margin-top: 1vw;
     margin-left: 5vw;
 }
 
@@ -133,7 +130,7 @@ body {
 .nav-contatos {
     display: flex;
     flex-direction: row;
-    gap: 5%;
+    gap: 1vw;
 }
 
 .contatos-links{
@@ -157,17 +154,17 @@ body {
 /*toda parte do sobre mim*/
 .sobre-mim {
     background-color: rgb(180, 180, 180) 211, 211, 0.784);
-    width: 70%;
-    height: 100%;
+    width: 70vw;
+    height: 50vw;
 }
 
 .sobre-mim-titulo{
     font-family: 'Oswald', sans-serif;
     font-weight: 200;
     font-size: 4vw;
-    margin-left: 5%;
-    margin-bottom: 5%;
-    margin-top: 10%;
+    margin-left: 4vw;
+    margin-bottom: 1.5vw;
+    margin-top: 4vw;
     border-bottom: 0.2px solid;
 }
 
@@ -175,10 +172,10 @@ body {
     font-family: 'Oswald', sans-serif;
     font-weight:200;
     font-size: 1.6vw;
-    margin-left: 5%;
-    margin-right: 10%;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-left: 6vw;
+    margin-right: 3vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
     text-align: justify;  
 }
 
@@ -208,7 +205,7 @@ body {
   }
   
 
- /*-------------------------------------
+/*-------------------------------------
 /* paginas secundárias */
 
 .main-secundario{
@@ -217,22 +214,22 @@ body {
     height: fit-content;
     background-color: rgb(180, 180, 180) 211, 211, 0.784);
     border-bottom: 0.2px solid; 
-    margin-bottom: 10%;
+    margin-bottom: 10vw;
     }
 
 .corpo-secundarios {
-    width: 100%;
-    margin-left: 12%;
-    margin-bottom: 10%;
+    width: 100vw;
+    margin-left: 12vw;
+    margin-bottom: 10vw;
 }
 
 .titulos-secundarios{
     font-family: 'Oswald', sans-serif;
     font-weight: 200;
     font-size: 4vw;
-    margin-left: 5%;
-    margin-bottom: 5%;
-    margin-top: 5%;
+    margin-left: 5vw;
+    margin-bottom: 5vw;
+    margin-top: 5vw;
     border-bottom: 0.2px solid;
 }
 
@@ -240,16 +237,16 @@ body {
     font-family: 'Oswald', sans-serif;
     font-weight: 200;
     font-size: 3vw;
-    margin-left: 5%;
-    margin-top: 2%;
+    margin-left: 9vw;
+    margin-top: 2vw;
 }
 
 .textos-secundarios{
     font-family: 'Oswald', sans-serif;
     font-weight:200;
     font-size: 1.7vw;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 10vw;
+    margin-right: 10vw;
     text-align: justify;  
 }
 
@@ -257,8 +254,8 @@ body {
     font-family: 'Oswald', sans-serif;
     font-weight:200;
     font-size: 1.8vw;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 10vw;
+    margin-right: 10vw;
     text-align: justify;
     color: darkblue;
 }
@@ -273,6 +270,6 @@ body {
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
     font-size: 1.7vw;
-    margin-left: 5%;
-    margin-top: 2%;
+    margin-left: 5vw;
+    margin-top: 2vw;
 }
